@@ -1,0 +1,7 @@
+pytaboola
+datetime
+csv
+pandas
+numpy
+logging
+pygsheets
