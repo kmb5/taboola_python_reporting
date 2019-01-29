@@ -5,7 +5,7 @@ A simple Taboola reporting "interface" using pytaboola - and my first ever git r
 A command-line interface coded in Python3 that is streamlining the download of daily reports. The problem is that the online Taboola interface only allows daily reports to be downloaded aggregated, and not filtered by campaign. This script gives a nice export filtered per campaign for an easy overview and further analysis. Uses [https://github.com/dolead/pytaboola] for the Taboola client. 
 
 ### Usage:
-`$ python3 taboola_python_reporting.py `, then follow the instructions in the terminal
+`$ python3 taboola_python_reporting.py`, then follow the instructions in the terminal
 
 ### Functions: 
 - fetch Taboola accounts using API key
